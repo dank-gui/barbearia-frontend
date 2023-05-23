@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+color: rgba(255, 101, 255, 0.692);
+text-align: center;
+font-size: 45px;
+
+}
+body {
+
+    background-image: url(https://images.ctfassets.net/3mv54pzvptwz/356bJZq3AUPGiz99gIYXPa/69caee6c994b0eb773d13861dc3daca2/23SS_PR_TS_Football_Creativity-Pack_Q2_Future_Neymar_0147_16x9_1920x1080px.jpg);
+    background-size: 100%;
+}
+
+p {
+color: rgb(255, 255, 255);
+font-size: 20px;
+text-shadow: black 5px 5px 4px ;
+
+}
+
+div {
+    text-align: center;
+}
