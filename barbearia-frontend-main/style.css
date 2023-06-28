@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    background-image: url('https://images.ctfassets.net/3mv54pzvptwz/356bJZq3AUPGiz99gIYXPa/69caee6c994b0eb773d13861dc3daca2/23SS_PR_TS_Football_Creativity-Pack_Q2_Future_Neymar_0147_16x9_1920x1080px.jpg');
+    background-size: 100%;
+}
+
+.titulo-principal{
+    text-align: center;
+    padding-left: 20px;
+    font-size: 45px;
+    color: #e381ec;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    padding: 30px;
+}
+
+.titulocentralizado {
+    text-align: center;
+    color: #b202c2;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-shadow: black 5px 5px 4px ;
+}
+
+em strong {
+    font-size: 20px;
+}
+
+.itens {
+    font-style: italic;
+    text-align: justify;
+}
+
+.cac {
+    padding: 20px;
+    text-align: justify;
+}
+
+.cac ul {
+    color: #fff;
+    margin-top: 170px;
+    text-align: justify;
+}
+
+h3 {
+    text-align: center;
+    color: #fff;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+img {
+    width: 50%;
+}
+
+.diva {
+    text-decoration: none;
+    font-size: 80px;
+    color: purple;
+}
